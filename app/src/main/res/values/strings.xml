@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusixPlayer</string>
+    <string name="heading">Musix - Now Play Your Music</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="audio">Audio Image</string>
+    <string name="audioVolume">Adjust Volume</string>
+
+</resources>
