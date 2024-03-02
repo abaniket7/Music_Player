@@ -6,5 +6,5 @@
 ### Overall, I've acquired a fundamental understanding of implementing media playback functionalities and UI controls in an Android application.
 
 ### Here's how it looks :
-<img src="![mp](https://github.com/abaniket7/Music_Player/assets/131402530/ee704418-3cf2-4306-8359-5ee2e3968ada)
-" alt="Image Description" style="width: 200px; height: 150px;">
+<img src="https://github.com/abaniket7/Music_Player/assets/131402530/c39ebf25-362c-482e-aba6-8d3a9800f4cf" alt="Image Description" style="width: 200px; height: auto;">
+
